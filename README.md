@@ -103,15 +103,15 @@ Se levantaron dos máquinas virtuales integradas: una para la capa de aplicació
 ---
 
 ## Estructura final del proyecto
-.
-├─ Vagrantfile
-├─ LICENSE
-├─ provision-web.sh
-├─ provision-db.sh
-└─ www/
-   ├─ index.html
-   ├─ info.php
-   └─ data.php
+
+      ├─ Vagrantfile
+      ├─ LICENSE
+      ├─ provision-web.sh
+      ├─ provision-db.sh
+      └─ www/
+            ├─ index.html
+            ├─ info.php
+            └─ data.php
 
 ---
 
