@@ -2,14 +2,26 @@
 <html lang="es">
 <head>
   <meta charset="utf-8" />
-  <title>Mi primer sitio con Vagrant</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Bienvenido</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <h1>Bienvenido a la pagina de Jorge Andrés Medina Urrutia</h1>
-  <p>Este sitio está corriendo en la máquina virtual provisionada con Vagrant + Apache + PHP.</p>
-  <ul>
-    <li><a href="info.php">Ver script en PHP</a></li>
-    <li><a href="data.php">Ver datos desde PostgreSQL</a></li>
-  </ul>
+  <main class="container">
+    <section class="card">
+      <h1>Bienvenido a la pagina de Jorge Andrés Medina Urrutia</h1>
+      <p>Entorno con Vagrant, Apache, PHP y PostgreSQL.</p>
+
+      <div class="nav">
+        <a class="button" href="data.php">Ver datos</a>
+        <a class="button" href="info.php">phpinfo()</a>
+      </div>
+
+      <div class="footer">
+        <span class="badge">Web VM: 192.168.56.19</span>
+        <span class="badge">DB VM: 192.168.56.20</span>
+      </div>
+    </section>
+  </main>
 </body>
 </html>
