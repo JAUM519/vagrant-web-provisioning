@@ -115,6 +115,13 @@ Se levantaron dos máquinas virtuales integradas: una para la capa de aplicació
 
 ---
 
+## Imagenes del proyecto Funcionando
+![Texto alternativo](screenshots/1.png)
+![Texto alternativo](screenshots/2.png)
+![Texto alternativo](screenshots/3.png)
+
+---
+
 ## Autor
 **Jorge Andrés Medina Urrutia**  
 Ingeniería Informática – Universidad Autónoma de Occidente
