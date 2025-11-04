@@ -116,9 +116,9 @@ Se levantaron dos máquinas virtuales integradas: una para la capa de aplicació
 ---
 
 ## Imagenes del proyecto Funcionando
-![Texto alternativo](screenshots/1.png)
-![Texto alternativo](screenshots/2.png)
-![Texto alternativo](screenshots/3.png)
+![index.html](screenshots/1.png)
+![info.php](screenshots/2.png)
+![data.php](screenshots/3.png)
 
 ---
 
